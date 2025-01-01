@@ -54,15 +54,13 @@ int main(int aa, char* hh[]) {
 }
 
 // Result:
-// Put your time(s) for execusion: 1
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Something running: 
-// Put your time(s) for execusion: -2
+// Parent process (PID: <parent_pid>) created child (PID: <child_pid>).
+// Child process (PID: <child_pid>) is running.
+// Child process is working...
+// Child process is working...
+// Child process is working...
+// Child process is working...
+// Child process is working...
+// Parent process sending SIGTERM to child process.
+// Child process received SIGTERM. Exiting...
+// Parent process done.
